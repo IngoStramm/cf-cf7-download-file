@@ -6,7 +6,7 @@
 Plugin Name: ConverteFácil: Contact Form 7 Download File
 Plugin URI: https://convertefacil.com.br
 Description: Plugin que permite adicionar um arquivo para ser baixado após o envio do formulário. Este plugin funciona em conjunto com o <a href="https://br.wordpress.org/plugins/contact-form-7/" target="_blank">Contact Form 7</a> e o plugin <a href="https://br.wordpress.org/plugins/cmb2/" target="_blank">CMB2</a>.
-Version: 1.0.0
+Version: 1.0.1
 Author: Ingo Stramm
 Author URI: https://convertefacil.com.br
 License: GPLv2 or later

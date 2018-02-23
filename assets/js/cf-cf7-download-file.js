@@ -5,7 +5,7 @@ jQuery( function( $ ) {
 	}); // $(document).ready
 
 	var wpcf7_trigger = function() {
-		document.addEventListener( 'wpcf7submit', function( event ) {
+		document.addEventListener( 'wpcf7mailsent', function( event ) {
 			var inputs = event.detail.inputs;
 			var file = '';
 			for ( var i = 0; i < inputs.length; i++ ) {
